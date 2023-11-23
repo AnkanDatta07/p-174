@@ -18,7 +18,7 @@ place_image.place(relx=0.7, rely=0.5,anchor=CENTER)
 
 #----------------------------heading of application--------------
 #set the font family of the text in label as per your choice of size 20 and make it bold and set the foreground color of the label
-label = Label(root, text="Assigning Jobs", font = ("sans-serif", 20, "bold"), fg = "magenta")
+label = Label(root, text="Assigning Jobs", font = ("French Script MT", 35, "bold"), fg = "magenta")
 
 label.place(relx=0.01, rely=0.06,anchor=W)
 
